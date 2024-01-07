@@ -12,8 +12,7 @@
     spinner();
     
     
-    // Initiate the wowjs
-    new WOW().init();
+    
 
 
     // Sticky Navbar
@@ -24,7 +23,7 @@
             $('.sticky-top').removeClass('shadow-sm').css('top', '-100px');
         }
     });
-    
+    2
     
     
     $(window).scroll(function () {
